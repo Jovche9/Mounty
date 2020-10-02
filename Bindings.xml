@@ -1,0 +1,5 @@
+<Bindings>
+  <Binding name="ZONEMOUNTRUN" header="ZONEMOUNT" runOnUp="true" category="ADDONS">
+    MountUp();
+  </Binding>
+</Bindings>

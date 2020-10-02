@@ -1,0 +1,11 @@
+## Interface: 70000
+## Title: |cff673AB7Zone Mount
+## Notes: Select different mounts for different zones.
+## Version: 1.0
+## Author: Jovche
+## SavedVariables: ZoneMountDB
+## DefaultState: enabled
+##
+
+ZoneMount.lua
+embeds.xml
